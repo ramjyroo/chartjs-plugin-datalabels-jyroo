@@ -1,3 +1,5 @@
+`git clone https://github.com/ramjyroo/chartjs-plugin-datalabels-jyroo`
+
 <p align="center">
     <img src="docs/.vuepress/public/hero-title.svg">
 </p>
