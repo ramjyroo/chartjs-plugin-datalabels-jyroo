@@ -1,5 +1,5 @@
-`cd gb
- git clone https://github.com/ramjyroo/chartjs-plugin-datalabels-jyroo`
+* `cd gb`
+* `git clone https://github.com/ramjyroo/chartjs-plugin-datalabels-jyroo`
 
 <p align="center">
     <img src="docs/.vuepress/public/hero-title.svg">
