@@ -1,5 +1,9 @@
 * `cd gb`
 * `git clone https://github.com/ramjyroo/chartjs-plugin-datalabels-jyroo`
+* `npm install --global gulp-cli`
+* `cd chartjs-plugin-datalabels-jyroo`
+* `yarn`
+* `gulp build`
 
 <p align="center">
     <img src="docs/.vuepress/public/hero-title.svg">
