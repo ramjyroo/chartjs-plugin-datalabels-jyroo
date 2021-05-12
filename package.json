@@ -23,7 +23,7 @@
   ],
   "devDependencies": {
     "@types/chart.js": "^2.7.42",
-    "chart.js": "2.7.2",
+    "chart.js": "2.9.4",
     "eslint-config-chartjs": "^0.1.0",
     "gulp": "^4.0.0",
     "gulp-eslint": "^5.0.0",
